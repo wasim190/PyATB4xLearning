@@ -1,0 +1,9 @@
+a=10
+b=15
+c=5.5
+sum=a+b+c
+print(sum)# here 10+15+5.5=30.5
+sum=sum-26
+print(sum)# here 30.5-26=4.5
+sum=sum+1
+print(sum)# here 4.5+1=5.5
