@@ -7,3 +7,4 @@ sum=sum-26
 print(sum)# here 30.5-26=4.5
 sum=sum+1
 print(sum)# here 4.5+1=5.5
+print(sum+1)# here 5.5+1=6.5
