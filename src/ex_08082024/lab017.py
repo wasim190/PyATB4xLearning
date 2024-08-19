@@ -1,0 +1,8 @@
+num1=int(input("enter the num1"))
+num2=int(input("enter the num2"))
+print(max(num1,num2))
+print(pow(num1,num2))
+print(num1-num2)
+print(num1+num2)
+print(num1/num2)
+print(num1*num2)
